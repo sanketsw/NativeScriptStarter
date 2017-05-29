@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Starter",
+  "ProjectGuid": "3c45865b-00e9-441c-9e4c-582b01d7cc79",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Starter",
+  "DisplayName": "Starter",
+  "Author": "",
+  "Description": "Starter",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.5.0",
+  "Framework": "NativeScript"
+}
